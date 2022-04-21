@@ -1,0 +1,81 @@
+@import "http://fonts.fontstorage.com/import/nextart.css";
+
+@font-face {
+  font-family: 'Kid';
+  src: url('../fonts/KidDisplay.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Taurus';
+  src: url('../fonts/TAURUS.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Acrom Reg';/*
+  src: url('../fonts/Acrom-Regular.eot');*/
+  src: /*local('Acrom Regular'), local('Acrom-Regular'),
+  url('../fonts/Acrom-Regular.eot?#iefix') format('embedded-opentype'),*/
+  url('../fonts/Acrom-Regular.woff') format('opentype')/*,
+  url('../fonts/Acrom-Regular.ttf') format('truetype')*/;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Acrom Bol';/*
+  src: url('../fonts/Acrom-Bold.eot');*/
+  src: /*local('Acrom Bold'), local('Acrom-Bold'),
+  url('../fonts/Acrom-Bold.eot?#iefix') format('embedded-opentype'),*/
+  url('../fonts/Acrom-Bold.woff') format('opentype')/*,
+  url('../fonts/Acrom-Bold.ttf') format('truetype')*/;
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Acrom Thin';/*
+  src: url('../fonts/Acrom-Thin.eot');*/
+  src: /*local('Acrom Thin'), local('Acrom-Thin'),
+  url('../fonts/Acrom-Thin.eot?#iefix') format('embedded-opentype'),*/
+  url('../fonts/Acrom-Thin.woff') format('opentype')/*,
+  url('../fonts/Acrom-Thin.ttf') format('truetype')*/;
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Acrom Lig';/*
+  src: url('../fonts/Acrom-Light.eot');*/
+  src: /*local('Acrom Light'), local('Acrom-Light'),
+  url('../fonts/Acrom-Light.eot?#iefix') format('embedded-opentype'),*/
+  url('../fonts/Acrom-Light.woff') format('opentype')/*,
+  url('../fonts/Acrom-Light.ttf') format('truetype')*/;
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Acrom ExBol';/*
+  src: url('../fonts/Acrom-ExtraBold.eot');*/
+  src: /*local('Acrom ExtraBold'), local('Acrom-ExtraBold'),
+  url('../fonts/Acrom-ExtraBold.eot?#iefix') format('embedded-opentype'),*/
+  url('../fonts/Acrom-ExtraBold.woff') format('opentype')/*,
+  url('../fonts/Acrom-ExtraBold.ttf') format('truetype')*/;
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Acrom Med';/*
+  src: url('../fonts/Acrom-Medium.eot');*/
+  src:/* local('Acrom Medium'), local('Acrom-Medium'),
+  url('../fonts/Acrom-Medium.eot?#iefix') format('embedded-opentype'),*/
+  url('../fonts/Acrom-Medium.woff') format('opentype')/*,
+  url('../fonts/Acrom-Medium.ttf') format('truetype')*/;
+  font-weight: 500;
+  font-style: normal;
+}

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>TAURUS</title>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+    <script src="assets/script/vendor.js"></script>
+    <link rel="stylesheet" href="assets/style/style.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.1/TweenMax.min.js"></script>
+    <script src="assets/script/jquery.lazylinepainter-1.7.0.min.js"></script>
+    <script src="assets/script/jquery.event.frame.js"></script>
+    <script src="assets/script/jquery.parallax.min.js"></script>
+</head>
+<body class="body__overflow">
+    <div class="wrapper">
+        <main class="content contents__index">
+            {{>fon}}
+
+            {{>top-index}}
+            {{>center-index}}
+            {{>bottom-index}}
+
+            <div class="cursor">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.284 48.284">
+                    <defs>
+                        <style>
+                            .curs1 {
+                                fill-rule: evenodd;
+                                fill: white;
+                            }
+                        </style>
+                    </defs>
+                    <path id="a" class="curs1" d="M120.352,35.858,136.556,0l16.222,35.858H120.352Zm9.557-6.162h13.312l-6.647-14.713L129.909,29.7Z" transform="translate(-85.101 108.03) rotate(-45)"/>
+                </svg>
+            </div>
+        </main>
+    </div>
+    <script src="assets/script/script.js"></script>
+</body>
+</html>

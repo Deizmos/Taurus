@@ -1,0 +1,15 @@
+@import "../../node_modules/normalize.css/normalize";
+@import "../../node_modules/tiny-slider/dist/tiny-slider";
+
+//common
+@import "common/variables";
+@import "common/common";
+@import "common/fonts";
+@import "common/bootstrap-custom";
+@import "common/layout";
+
+//blocks.
+//please, add new blocks in alphabetical order!
+@import "block/master-page";
+@import "block/index";
+@import "block/contacts";

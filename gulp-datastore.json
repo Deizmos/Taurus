@@ -1,0 +1,72 @@
+{
+  "mainMenu": [
+    {
+      "name": "MAXIMUS",
+      "href": "#",
+      "subMenu": [
+        {
+          "name": "О компаниии",
+          "href": "../about-company.html"
+        },
+        {
+          "name": "Семья MAXIMUS",
+          "href": "../family-maximus.html"
+        },
+        {
+          "name": "Клубные карты",
+          "href": "../club-card.html"
+        },
+        {
+          "name": "Новости и акции",
+          "href": "../news-and-action.html"
+        },
+        {
+          "name": "Статьи",
+          "href": "../articles.html"
+        },
+        {
+          "name": "Отзывы",
+          "href": "../comments-and-suggestions.html"
+        },
+        {
+          "name": "Тренеры",
+          "href": "../trainers.html"
+        },
+        {
+          "name": "Контакты",
+          "href": "../contacts.html"
+        },
+        {
+          "name": "Реклама и партнеры",
+          "href": "../advertising-and-partners.html"
+        }
+      ]
+    },
+    {
+      "name": "Купить карту",
+      "href": "../buy-card.html"
+    },
+    {
+      "name": "Клубы",
+      "href": "#",
+      "subMenu": [
+        {
+          "name": "MAXIMUS Global",
+          "href": "../maximus-Clobal.html"
+        },
+        {
+          "name": "MAXIMUS Progressive",
+          "href": "../maximus-Progressive.html"
+        }
+      ]
+    },
+    {
+      "name": "Расписание",
+      "href": "../schedule.html"
+    },
+    {
+      "name": "Карьера",
+      "href": "../vacancies.html"
+    }
+  ]
+}
